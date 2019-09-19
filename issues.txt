@@ -1,0 +1,5 @@
+unable to import basemap:
+https://stackoverflow.com/a/42897060
+
+os.environ["PROJ_LIB"] = "C:\\Users\\XXXXX\\Anaconda\\Library\\share"; #fixr
+from mpl_toolkits.basemap import Basemap
